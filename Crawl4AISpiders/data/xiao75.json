@@ -1,0 +1,527 @@
+[
+    {
+        "name": "江南",
+        "dynasty": "两汉",
+        "author": "汉乐府",
+        "content": "江南可采莲，莲叶何田田，鱼戏莲叶间。鱼戏莲叶东，鱼戏莲叶西，鱼戏莲叶南，鱼戏莲叶北。",
+        "pinyin_url": "https://www.shicile.com/detail/1880297199501"
+    },
+    {
+        "name": "长歌行",
+        "dynasty": "两汉",
+        "author": "汉乐府",
+        "content": "青青园中葵，朝露待日晞。阳春布德泽，万物生光辉。常恐秋节至，焜黄华叶衰。百川东到海，何时复西归？少壮不努力，老大徒伤悲。",
+        "pinyin_url": "https://www.shicile.com/detail/9660298954280"
+    },
+    {
+        "name": "敕勒歌",
+        "dynasty": "南北朝",
+        "author": "乐府诗集",
+        "content": "敕勒川，阴山下。天似穹庐，笼盖四野。天苍苍，野茫茫。风吹草低见牛羊。",
+        "pinyin_url": "https://www.shicile.com/detail/9630297918762"
+    },
+    {
+        "name": "咏鹅",
+        "dynasty": "唐",
+        "author": "骆宾王",
+        "content": "鹅，鹅，鹅，曲项向天歌。白毛浮绿水，红掌拨清波。",
+        "pinyin_url": "https://www.shicile.com/detail/4590001052634"
+    },
+    {
+        "name": "风",
+        "dynasty": "唐",
+        "author": "李峤",
+        "content": "解落三秋叶，能开二月花。过江千尺浪，入竹万竿斜。",
+        "pinyin_url": "https://www.shicile.com/detail/10096073275"
+    },
+    {
+        "name": "咏柳",
+        "dynasty": "唐",
+        "author": "贺知章",
+        "content": "碧玉妆成一树高，万条垂下绿丝绦。不知细叶谁裁出，二月春风似剪刀。",
+        "pinyin_url": "https://www.shicile.com/detail/6940298887761"
+    },
+    {
+        "name": "回乡偶书·其一",
+        "dynasty": "唐",
+        "author": "贺知章",
+        "content": "少小离家老大回，乡音无改鬓毛衰。儿童相见不相识，笑问客从何处来。",
+        "pinyin_url": "https://www.shicile.com/detail/6640282196938"
+    },
+    {
+        "name": "凉州词二首·其一",
+        "dynasty": "唐",
+        "author": "王之涣",
+        "content": "黄河远上白云间，一片孤城万仞山。羌笛何须怨杨柳，春风不度玉门关。",
+        "pinyin_url": "https://www.shicile.com/detail/3550298193396"
+    },
+    {
+        "name": "登鹳雀楼",
+        "dynasty": "唐",
+        "author": "王之涣",
+        "content": "白日依山尽，黄河入海流。欲穷千里目，更上一层楼。",
+        "pinyin_url": "https://www.shicile.com/detail/710075560527"
+    },
+    {
+        "name": "春晓",
+        "dynasty": "唐",
+        "author": "孟浩然",
+        "content": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。",
+        "pinyin_url": "https://www.shicile.com/detail/4790000007002"
+    },
+    {
+        "name": "凉州词二首·其一",
+        "dynasty": "唐",
+        "author": "王翰",
+        "content": "葡萄美酒夜光杯，欲饮琵琶马上催。醉卧沙场君莫笑，古来征战几人回？",
+        "pinyin_url": "https://www.shicile.com/detail/5180298213624"
+    },
+    {
+        "name": "出塞二首·其一",
+        "dynasty": "唐",
+        "author": "王昌龄",
+        "content": "秦时明月汉时关，万里长征人未还。但使龙城飞将在，不教胡马度阴山。",
+        "pinyin_url": "https://www.shicile.com/detail/340298211290"
+    },
+    {
+        "name": "芙蓉楼送辛渐",
+        "dynasty": "唐",
+        "author": "王昌龄",
+        "content": "寒雨连江夜入吴，平明送客楚山孤。洛阳亲友如相问，一片冰心在玉壶。",
+        "pinyin_url": "https://www.shicile.com/detail/1690093987457"
+    },
+    {
+        "name": "鹿柴",
+        "dynasty": "唐",
+        "author": "王维",
+        "content": "空山不见人，但闻人语响。返景入深林，复照青苔上。",
+        "pinyin_url": "https://www.shicile.com/detail/4600142891759"
+    },
+    {
+        "name": "送元二使安西",
+        "dynasty": "唐",
+        "author": "王维",
+        "content": "渭城朝雨浥轻尘，客舍青青柳色新。劝君更尽一杯酒，西出阳关无故人。",
+        "pinyin_url": "https://www.shicile.com/detail/6610299404353"
+    },
+    {
+        "name": "九月九日忆山东兄弟",
+        "dynasty": "唐",
+        "author": "王维",
+        "content": "独在异乡为异客，每逢佳节倍思亲。遥知兄弟登高处，遍插茱萸少一人。",
+        "pinyin_url": "https://www.shicile.com/detail/5450284835136"
+    },
+    {
+        "name": "静夜思",
+        "dynasty": "唐",
+        "author": "李白",
+        "content": "床前明月光，疑是地上霜。举头望明月，低头思故乡。",
+        "pinyin_url": "https://www.shicile.com/detail/6710298640357"
+    },
+    {
+        "name": "古朗月行（节选）",
+        "dynasty": "唐",
+        "author": "李白",
+        "content": "小时不识月，呼作白玉盘。又疑瑶台镜，飞在青云端。",
+        "pinyin_url": "https://www.shicile.com/detail/784395"
+    },
+    {
+        "name": "望庐山瀑布",
+        "dynasty": "唐",
+        "author": "李白",
+        "content": "日照香炉生紫烟，遥看瀑布挂前川。飞流直下三千尺，疑是银河落九天。",
+        "pinyin_url": "https://www.shicile.com/detail/2730298638801"
+    },
+    {
+        "name": "赠汪伦",
+        "dynasty": "唐",
+        "author": "李白",
+        "content": "李白乘舟将欲行，忽闻岸上踏歌声。桃花潭水深千尺，不及汪伦送我情。",
+        "pinyin_url": "https://www.shicile.com/detail/2960298193785"
+    },
+    {
+        "name": "黄鹤楼送孟浩然之广陵",
+        "dynasty": "唐",
+        "author": "李白",
+        "content": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。",
+        "pinyin_url": "https://www.shicile.com/detail/4480298901376"
+    },
+    {
+        "name": "早发白帝城",
+        "dynasty": "唐",
+        "author": "李白",
+        "content": "朝辞白帝彩云间，千里江陵一日还。两岸猿声啼不住，轻舟已过万重山。",
+        "pinyin_url": "https://www.shicile.com/detail/6810263089647"
+    },
+    {
+        "name": "望天门山",
+        "dynasty": "唐",
+        "author": "李白",
+        "content": "天门中断楚江开，碧水东流至此回。两岸青山相对出，孤帆一片日边来。",
+        "pinyin_url": "https://www.shicile.com/detail/6730102602251"
+    },
+    {
+        "name": "别董大·其一",
+        "dynasty": "唐",
+        "author": "高适",
+        "content": "千里黄云白日曛，北风吹雁雪纷纷。莫愁前路无知己，天下谁人不识君。",
+        "pinyin_url": "https://www.shicile.com/detail/5260050287197"
+    },
+    {
+        "name": "绝句",
+        "dynasty": "唐",
+        "author": "杜甫",
+        "content": "两个黄鹂鸣翠柳，一行白鹭上青天。窗含西岭千秋雪，门泊东吴万里船。",
+        "pinyin_url": "https://www.shicile.com/detail/4740216724737"
+    },
+    {
+        "name": "春夜喜雨",
+        "dynasty": "唐",
+        "author": "杜甫",
+        "content": "好雨知时节，当春乃发生。随风潜入夜，润物细无声。野径云俱黑，江船火独明。晓看红湿处，花重锦官城。",
+        "pinyin_url": "https://www.shicile.com/detail/5470298597956"
+    },
+    {
+        "name": "绝句",
+        "dynasty": "唐",
+        "author": "杜甫",
+        "content": "迟日江山丽，春风花草香。泥融飞燕子，沙暖睡鸳鸯。",
+        "pinyin_url": "https://www.shicile.com/detail/320151726727"
+    },
+    {
+        "name": "江畔独步寻花·其五",
+        "dynasty": "唐",
+        "author": "杜甫",
+        "content": "黄师塔前江水东，春光懒困倚微风。桃花一簇开无主，可爱深红爱浅红？",
+        "pinyin_url": "https://www.shicile.com/detail/4880001718991"
+    },
+    {
+        "name": "枫桥夜泊",
+        "dynasty": "唐",
+        "author": "张继",
+        "content": "月落乌啼霜满天，江枫渔火对愁眠。姑苏城外寒山寺，夜半钟声到客船。",
+        "pinyin_url": "https://www.shicile.com/detail/7520289900694"
+    },
+    {
+        "name": "滁州西涧",
+        "dynasty": "唐",
+        "author": "韦应物",
+        "content": "独怜幽草涧边生，上有黄鹂深树鸣。春潮带雨晚来急，野渡无人舟自横。",
+        "pinyin_url": "https://www.shicile.com/detail/3990096125790"
+    },
+    {
+        "name": "渔歌子·西塞山前白鹭飞",
+        "dynasty": "唐",
+        "author": "张志和",
+        "content": "西塞山前白鹭飞，桃花流水鳜鱼肥。青箬笠，绿蓑衣，斜风细雨不须归。",
+        "pinyin_url": "https://www.shicile.com/detail/3490280990260"
+    },
+    {
+        "name": "和张仆射塞下曲·其三",
+        "dynasty": "唐",
+        "author": "卢纶",
+        "content": "月黑雁飞高，单于夜遁逃。欲将轻骑逐，大雪满弓刀。",
+        "pinyin_url": "https://www.shicile.com/detail/950297169937"
+    },
+    {
+        "name": "游子吟",
+        "dynasty": "唐",
+        "author": "孟郊",
+        "content": "慈母手中线，游子身上衣。临行密密缝，意恐迟迟归。谁言寸草心，报得三春晖。",
+        "pinyin_url": "https://www.shicile.com/detail/9050294782255"
+    },
+    {
+        "name": "早春呈水部张十八员外",
+        "dynasty": "唐",
+        "author": "韩愈",
+        "content": "天街小雨润如酥，草色遥看近却无。最是一年春好处，绝胜烟柳满皇都。",
+        "pinyin_url": "https://www.shicile.com/detail/8170298182504"
+    },
+    {
+        "name": "望洞庭",
+        "dynasty": "唐",
+        "author": "刘禹锡",
+        "content": "湖光秋月两相和，潭面无风镜未磨。遥望洞庭山水翠，白银盘里一青螺。",
+        "pinyin_url": "https://www.shicile.com/detail/7540004041710"
+    },
+    {
+        "name": "浪淘沙·九曲黄河万里沙",
+        "dynasty": "唐",
+        "author": "刘禹锡",
+        "content": "九曲黄河万里沙，浪淘风簸自天涯。如今直上银河去，同到牵牛织女家。",
+        "pinyin_url": "https://www.shicile.com/detail/4650094776349"
+    },
+    {
+        "name": "赋得古原草送别",
+        "dynasty": "唐",
+        "author": "白居易",
+        "content": "离离原上草，一岁一枯荣。野火烧不尽，春风吹又生。远芳侵古道，晴翠接荒城。又送王孙去，萋萋满别情。",
+        "pinyin_url": "https://www.shicile.com/detail/330003226366"
+    },
+    {
+        "name": "池上",
+        "dynasty": "唐",
+        "author": "白居易",
+        "content": "小娃撑小艇，偷采白莲回。不解藏踪迹，浮萍一道开。",
+        "pinyin_url": "https://www.shicile.com/detail/2790217422214"
+    },
+    {
+        "name": "忆江南·江南好",
+        "dynasty": "唐",
+        "author": "白居易",
+        "content": "江南好，风景旧曾谙。日出江花红胜火，春来江水绿如蓝。能不忆江南？",
+        "pinyin_url": "https://www.shicile.com/detail/320106051514"
+    },
+    {
+        "name": "小儿垂钓",
+        "dynasty": "唐",
+        "author": "胡令能",
+        "content": "蓬头稚子学垂纶，侧坐莓苔草映身。路人借问遥招手，怕得鱼惊不应人。",
+        "pinyin_url": "https://www.shicile.com/detail/6420122978849"
+    },
+    {
+        "name": "悯农二首·其二",
+        "dynasty": "唐",
+        "author": "李绅",
+        "content": "锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦。",
+        "pinyin_url": "https://www.shicile.com/detail/4230113739710"
+    },
+    {
+        "name": "悯农二首·其一",
+        "dynasty": "唐",
+        "author": "李绅",
+        "content": "春种一粒粟，秋收万颗子。四海无闲田，农夫犹饿死。",
+        "pinyin_url": "https://www.shicile.com/detail/4170297980224"
+    },
+    {
+        "name": "江雪",
+        "dynasty": "唐",
+        "author": "柳宗元",
+        "content": "千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪。",
+        "pinyin_url": "https://www.shicile.com/detail/2800094824974"
+    },
+    {
+        "name": "寻隐者不遇",
+        "dynasty": "唐",
+        "author": "贾岛",
+        "content": "松下问童子，言师采药去。只在此山中，云深不知处。",
+        "pinyin_url": "https://www.shicile.com/detail/4140003211584"
+    },
+    {
+        "name": "山行",
+        "dynasty": "唐",
+        "author": "杜牧",
+        "content": "远上寒山石径斜，白云生处有人家。停车坐爱枫林晚，霜叶红于二月花。",
+        "pinyin_url": "https://www.shicile.com/detail/4010217404320"
+    },
+    {
+        "name": "清明",
+        "dynasty": "唐",
+        "author": "杜牧",
+        "content": "清明时节雨纷纷，路上行人欲断魂。借问酒家何处有，牧童遥指杏花村。",
+        "pinyin_url": "https://www.shicile.com/detail/1830298250190"
+    },
+    {
+        "name": "江南春",
+        "dynasty": "唐",
+        "author": "杜牧",
+        "content": "千里莺啼绿映红，水村山郭酒旗风。南朝四百八十寺，多少楼台烟雨中。",
+        "pinyin_url": "https://www.shicile.com/detail/9750003211195"
+    },
+    {
+        "name": "蜂",
+        "dynasty": "唐",
+        "author": "罗隐",
+        "content": "不论平地与山尖，无限风光尽被占。采得百花成蜜后，为谁辛苦为谁甜？",
+        "pinyin_url": "https://www.shicile.com/detail/4500297174216"
+    },
+    {
+        "name": "江上渔者",
+        "dynasty": "宋",
+        "author": "范仲淹",
+        "content": "江上往来人，但爱鲈鱼美。君看一叶舟，出没风波里。",
+        "pinyin_url": "https://www.shicile.com/detail/1510001563780"
+    },
+    {
+        "name": "泊船瓜洲",
+        "dynasty": "宋",
+        "author": "王安石",
+        "content": "京口瓜洲一水间，钟山只隔数重山。春风又绿江南岸，明月何时照我还。",
+        "pinyin_url": "https://www.shicile.com/detail/4690046016755"
+    },
+    {
+        "name": "元日",
+        "dynasty": "宋",
+        "author": "王安石",
+        "content": "爆竹声中一岁除，春风送暖入屠苏。千门万户曈曈日，总把新桃换旧符。",
+        "pinyin_url": "https://www.shicile.com/detail/1440299316439"
+    },
+    {
+        "name": "书湖阴先生壁·其一",
+        "dynasty": "宋",
+        "author": "王安石",
+        "content": "茅檐长扫净无苔，花木成畦手自栽。一水护田将绿绕，两山排闼送青来。",
+        "pinyin_url": "https://www.shicile.com/detail/4020297955328"
+    },
+    {
+        "name": "六月二十七日望湖楼醉书",
+        "dynasty": "宋",
+        "author": "苏轼",
+        "content": "黑云翻墨未遮山，白雨跳珠乱入船。卷地风来忽吹散，望湖楼下水如天。",
+        "pinyin_url": "https://www.shicile.com/detail/5420298899820"
+    },
+    {
+        "name": "饮湖上初晴后雨二首·其二",
+        "dynasty": "宋",
+        "author": "苏轼",
+        "content": "水光潋滟晴方好，山色空蒙雨亦奇。欲把西湖比西子，淡妆浓抹总相宜。",
+        "pinyin_url": "https://www.shicile.com/detail/140298220237"
+    },
+    {
+        "name": "惠崇春江晚景·其一",
+        "dynasty": "宋",
+        "author": "苏轼",
+        "content": "竹外桃花三两枝，春江水暖鸭先知。蒌蒿满地芦芽短，正是河豚欲上时。",
+        "pinyin_url": "https://www.shicile.com/detail/6520000004279"
+    },
+    {
+        "name": "题西林壁",
+        "dynasty": "宋",
+        "author": "苏轼",
+        "content": "横看成岭侧成峰，远近高低各不同。不识庐山真面目，只缘身在此山中。",
+        "pinyin_url": "https://www.shicile.com/detail/4770298890095"
+    },
+    {
+        "name": "夏日绝句",
+        "dynasty": "宋",
+        "author": "李清照",
+        "content": "生当作人杰，死亦为鬼雄。至今思项羽，不肯过江东。",
+        "pinyin_url": "https://www.shicile.com/detail/2780298531437"
+    },
+    {
+        "name": "三衢道中",
+        "dynasty": "宋",
+        "author": "曾几",
+        "content": "梅子黄时日日晴，小溪泛尽却山行。绿阴不减来时路，添得黄鹂四五声。",
+        "pinyin_url": "https://www.shicile.com/detail/9010297465577"
+    },
+    {
+        "name": "示儿",
+        "dynasty": "宋",
+        "author": "陆游",
+        "content": "死去元知万事空，但悲不见九州同。王师北定中原日，家祭无忘告乃翁。",
+        "pinyin_url": "https://www.shicile.com/detail/8100002542115"
+    },
+    {
+        "name": "秋夜将晓出篱门迎凉有感·其二",
+        "dynasty": "宋",
+        "author": "陆游",
+        "content": "三万里河东入海，五千仞岳上摩天。遗民泪尽胡尘里，南望王师又一年。",
+        "pinyin_url": "https://www.shicile.com/detail/410297627401"
+    },
+    {
+        "name": "四时田园杂兴·其三十一",
+        "dynasty": "宋",
+        "author": "范成大",
+        "content": "昼出耘田夜绩麻，村庄儿女各当家。童孙未解供耕织，也傍桑阴学种瓜。",
+        "pinyin_url": "https://www.shicile.com/detail/6770286590693"
+    },
+    {
+        "name": "四时田园杂兴·其二十五",
+        "dynasty": "宋",
+        "author": "范成大",
+        "content": "梅子金黄杏子肥，麦花雪白菜花稀。日长篱落无人过，惟有蜻蜓蛱蝶飞。",
+        "pinyin_url": "https://www.shicile.com/detail/7210298955836"
+    },
+    {
+        "name": "小池",
+        "dynasty": "宋",
+        "author": "杨万里",
+        "content": "泉眼无声惜细流，树阴照水爱晴柔。小荷才露尖尖角，早有蜻蜓立上头。",
+        "pinyin_url": "https://www.shicile.com/detail/2170299131275"
+    },
+    {
+        "name": "晓出净慈寺送林子方",
+        "dynasty": "宋",
+        "author": "杨万里",
+        "content": "毕竟西湖六月中，风光不与四时同。接天莲叶无穷碧，映日荷花别样红。",
+        "pinyin_url": "https://www.shicile.com/detail/5620297190943"
+    },
+    {
+        "name": "春日",
+        "dynasty": "宋",
+        "author": "朱熹",
+        "content": "胜日寻芳泗水滨，无边光景一时新。等闲识得东风面，万紫千红总是春。",
+        "pinyin_url": "https://www.shicile.com/detail/1040298598345"
+    },
+    {
+        "name": "观书有感·其一",
+        "dynasty": "宋",
+        "author": "朱熹",
+        "content": "半亩方塘一鉴开，天光云影共徘徊。问渠那得清如许？为有源头活水来。",
+        "pinyin_url": "https://www.shicile.com/detail/6280006062565"
+    },
+    {
+        "name": "题临安邸",
+        "dynasty": "宋",
+        "author": "林升",
+        "content": "山外青山楼外楼，西湖歌舞几时休？暖风熏得游人醉，直把杭州作汴州。",
+        "pinyin_url": "https://www.shicile.com/detail/3830297467133"
+    },
+    {
+        "name": "游园不值",
+        "dynasty": "宋",
+        "author": "叶绍翁",
+        "content": "应怜屐齿印苍苔，小扣柴扉久不开。春色满园关不住，一枝红杏出墙来。",
+        "pinyin_url": "https://www.shicile.com/detail/6860297215061"
+    },
+    {
+        "name": "乡村四月",
+        "dynasty": "宋",
+        "author": "翁卷",
+        "content": "绿遍山原白满川，子规声里雨如烟。乡村四月闲人少，才了蚕桑又插田。",
+        "pinyin_url": "https://www.shicile.com/detail/8150298943777"
+    },
+    {
+        "name": "墨梅",
+        "dynasty": "元",
+        "author": "王冕",
+        "content": "我家洗砚池头树，朵朵花开淡墨痕。不要人夸好颜色，只留清气满乾坤。",
+        "pinyin_url": "https://www.shicile.com/detail/9360297322814"
+    },
+    {
+        "name": "石灰吟",
+        "dynasty": "明",
+        "author": "于谦",
+        "content": "千锤万凿出深山，烈火焚烧若等闲。粉骨碎身浑不怕，要留清白在人间。",
+        "pinyin_url": "https://www.shicile.com/detail/9250298170834"
+    },
+    {
+        "name": "竹石",
+        "dynasty": "清",
+        "author": "郑燮",
+        "content": "咬定青山不放松，立根原在破岩中。千磨万击还坚劲，任尔东西南北风。",
+        "pinyin_url": "https://www.shicile.com/detail/1450007387888"
+    },
+    {
+        "name": "所见",
+        "dynasty": "清",
+        "author": "袁枚",
+        "content": "牧童骑黄牛，歌声振林樾。意欲捕鸣蝉，忽然闭口立。",
+        "pinyin_url": "https://www.shicile.com/detail/2730297325148"
+    },
+    {
+        "name": "己亥杂诗·其一百二十五",
+        "dynasty": "清",
+        "author": "龚自珍",
+        "content": "九州生气恃风雷，万马齐喑究可哀。我劝天公重抖擞，不拘一格降人才。",
+        "pinyin_url": "https://www.shicile.com/detail/1250046010531"
+    },
+    {
+        "name": "村居",
+        "dynasty": "清",
+        "author": "高鼎",
+        "content": "草长莺飞二月天，拂堤杨柳醉春烟。儿童散学归来早，忙趁东风放纸鸢。",
+        "pinyin_url": "https://www.shicile.com/detail/6910298172390"
+    }
+]
